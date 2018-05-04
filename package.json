@@ -1,7 +1,6 @@
 {
   "name": "@mittwald/kubernetes",
   "description": "Kubernetes client library",
-  "version": "2.0.0-beta.13",
   "main": "index.js",
   "typings": "index.d.ts",
   "scripts": {
