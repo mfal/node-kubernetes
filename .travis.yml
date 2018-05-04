@@ -7,7 +7,6 @@ cache:
   - node_modules
 script:
 - yarn compile
-- yarn test
 before_deploy:
 - npm version from-git
 - cp README.md package.json dist/
